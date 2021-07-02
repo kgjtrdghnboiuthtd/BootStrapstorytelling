@@ -1,0 +1,8 @@
+.jumbotron {
+    background-image: url("../img/crayon-ikea.jpg");
+    background-size: cover;
+}
+
+#ikea {
+    color: rgb(255, 255, 255);
+}
